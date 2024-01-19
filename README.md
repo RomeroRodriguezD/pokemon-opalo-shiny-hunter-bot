@@ -221,7 +221,7 @@ if __name__ == "__main__":
 -Pattern matching is a powerful tool when we are looking for non-changing, distinguishable visual elements, letting us automate
 many things. This game is just an example.
 
--While this may also work on Pokémon Z (and perhaps other Lostieverse fangames), and it does if you don't have the pokemon yet, there's still one case I did not test and may not work: shiny wild pokemon
+-While this may also work with Pokémon Z (and perhaps other Lostieverse fangames), and it does if you don't have the pokemon yet, there's still one case I did not test and may not work: shiny wild pokemon
 that you already have, whom have a different shiny logo.
 
 -The exact same technique could be used for, for example, look for a rare pokemon with a very low chance to appear, with just code lines changed and using the desired pokemon matching image.
