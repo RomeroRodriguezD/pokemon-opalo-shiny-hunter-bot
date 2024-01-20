@@ -39,7 +39,7 @@ import numpy as np
 
 ## Setting some pre-requisites ##
 
-Since it we'll be using visual pattern matching, we'll need to have them captured on files in order to make it work.
+Since it will be using visual pattern matching, we'll need to have them captured on files in order to make it work.
 Those patterns should be some graphic element that <b>should only be found in our desired context to make it impossible to misinterpret.</b>
 
 So, for Pokémon Ópalo we use two perfect matches:
