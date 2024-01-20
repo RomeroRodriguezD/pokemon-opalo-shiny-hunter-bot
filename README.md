@@ -76,7 +76,7 @@ However, the program works at gray scale. That's because two reasons:
 
 1-Color gives us 0 relevant information for this task. In fact, it would only make the pattern matching harder.
 
-2-Working with gray scales it's faster than colorized spectrums.
+2-Working with gray scales is faster than colorized spectrums.
 
 ## Defining the key functions ##
 
